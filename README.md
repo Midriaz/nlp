@@ -1,2 +1,2 @@
 # nlp
-NLP learning tasks
+My solution to NLP training tasks and competitions.
